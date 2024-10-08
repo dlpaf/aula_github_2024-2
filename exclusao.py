@@ -19,7 +19,7 @@ class BancoDeDados:
         else:
             print('Usuário não encontrado.')
 
-class ExcluisaoDeConta:
+class ExclusaoDeConta:
     def __init__(self, banco_de_dados):
         self.banco_de_dados = banco_de_dados
 
@@ -44,7 +44,7 @@ def main():
     banco = BancoDeDados()
     usuario1 = Usuario("Teste", 1)
     banco.adicionar_usuario(usuario1)
-    exclusao = ExcluisaoDeConta(banco)
+    exclusao = ExclusaoDeConta(banco)
     exclusao.confirmar_exclusao(1)
 
 if __name__ == "__main__":
