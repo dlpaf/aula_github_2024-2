@@ -1,7 +1,7 @@
 # aula_github_2024-2
 Exemplo a ser trabalhado na aula sobre git e GitHub
 
-#Enunciado 
+# Enunciado
 Nome da Tarefa:
 Atividade 5 - Prática do Fluxo de Desenvolvimento utilizando Git e GitHub
 Descrição:
